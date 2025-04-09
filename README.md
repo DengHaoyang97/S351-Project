@@ -1,4 +1,4 @@
-# S351-Projectstudent_management_system/
+student_management_system/
 │
 ├── app.py                  # Application entry point and configuration
 ├── models.py               # Data model definitions
